@@ -516,3 +516,102 @@ MYRA-AI-ASSISTANT/
 <img src="https://img.shields.io/badge/Developer-CodeNinjaVik-blue?style=for-the-badge">
 
 </p>
+
+<h2 align="center">🚀 CodeNinjaVik</h2>
+
+<p align="center">
+Creator of <b>MYRA AI Assistant</b><br>
+AI Developer • Software Developer • Content Creator
+</p>
+
+---
+
+<p align="center">
+
+<a href="https://github.com/codeninjavik">
+<img src="https://img.shields.io/badge/GitHub-codeninjavik-181717?style=for-the-badge&logo=github">
+</a>
+
+<br><br>
+
+<a href="https://codeninjavik.in">
+<img src="https://img.shields.io/badge/🌐_Website-codeninjavik.in-0A66C2?style=for-the-badge">
+</a>
+
+<br><br>
+
+<a href="https://youtube.com/@codeninjavikofficial">
+<img src="https://img.shields.io/badge/🎥_YouTube-CodeNinjaVik_Official-FF0000?style=for-the-badge&logo=youtube">
+</a>
+
+<br><br>
+
+<a href="https://t.me/codeninja_vik">
+<img src="https://img.shields.io/badge/📢_Telegram-@codeninja__vik-26A5E4?style=for-the-badge&logo=telegram">
+</a>
+
+<br><br>
+
+<a href="https://instagram.com/codeninjavik">
+<img src="https://img.shields.io/badge/📸_Instagram-@codeninjavik-E4405F?style=for-the-badge&logo=instagram">
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+### ❤️ Built with Python, AI & Innovation
+
+### Developed by CodeNinjaVik
+
+</p>
+
+---
+
+# 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome.
+
+1. Fork Repository
+2. Create Branch
+3. Commit Changes
+4. Push Changes
+5. Create Pull Request
+
+---
+
+# 📜 License
+
+MIT License
+
+---
+
+# ⭐ Support The Project
+
+If you like MYRA AI Assistant:
+
+⭐ Star This Repository
+
+🍴 Fork This Repository
+
+📢 Share With Friends
+
+🎥 Subscribe To CodeNinjaVik Official
+
+📢 Join Telegram @codeninja_vik
+
+🌐 Visit https://codeninjavik.in
+
+---
+
+<p align="center">
+
+# ❤️ Built With Python & AI
+
+### Developed By CodeNinjaVik
+
+### Thank You For Supporting MYRA AI Assistant 🚀
+
+</p>
