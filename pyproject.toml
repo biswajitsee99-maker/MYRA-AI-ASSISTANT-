@@ -1,0 +1,41 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "myra-ai-assistant"
+version = "0.2.0"
+description = "MYRA AI Assistant - a Windows desktop AI assistant scaffold"
+readme = "README.md"
+requires-python = ">=3.10"
+authors = [{ name = "MYRA AI" }]
+license = { text = "MIT" }
+keywords = ["ai", "assistant", "automation", "voice", "windows"]
+classifiers = [
+  "Development Status :: 3 - Alpha",
+  "Intended Audience :: End Users/Desktop",
+  "License :: OSI Approved :: MIT License",
+  "Programming Language :: Python :: 3",
+  "Programming Language :: Python :: 3.10",
+  "Programming Language :: Python :: 3.11",
+  "Programming Language :: Python :: 3.12",
+  "Programming Language :: Python :: 3.13",
+  "Operating System :: Microsoft :: Windows",
+]
+dependencies = []
+
+[project.optional-dependencies]
+voice = [
+  "SpeechRecognition>=3.10",
+  "PyAudio>=0.2.14",
+  "pocketsphinx>=5.0",
+  "pyttsx3>=2.90",
+]
+
+[project.scripts]
+myra = "myra_ai_assistant.cli:main"
+myra-desktop = "myra_ai_assistant.desktop_app:main"
+myra-video = "myra_ai_assistant.video_editor:main"
+
+[tool.setuptools]
+packages = ["myra_ai_assistant"]
